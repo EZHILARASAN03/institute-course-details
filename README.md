@@ -1,5 +1,5 @@
-# institute-course-details
-The Institute Course Details section provides a comprehensive view of the academic programs offered by the institute. It includes structured information about each course, which helps in curriculum planning, student enrollment tracking, and performance analysis.
+# Analysing institute-course-details
+The Analysing Institute Course Details section provides a comprehensive view of the academic programs offered by the institute. It includes structured information about each course, which helps in curriculum planning, student enrollment tracking, and performance analysis.
 
 Key Features Typically Included:
 
@@ -16,7 +16,7 @@ Course Coordinator           	Faculty or head in charge of the course
 Year Introduced             	The year the course was first offered
 
 
-📊 **Institute Project - Power BI Dashboard**
+📊  **Analysing Institute Project - Power BI Dashboard**
 📁 **Project Overview**
 This Power BI project is designed to provide interactive and insightful data visualizations for institutional data. It aims to assist stakeholders in making informed decisions by presenting key metrics and trends across various aspects of the institute's performance.
 
